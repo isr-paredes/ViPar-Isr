@@ -2,7 +2,9 @@
 
 **`Computer Science Student`**
 
-Hello! My name is Israel Vidal 
+Hello! Thanks for stopping by, I'm a computer science student at Tecnológico de Monterrey, Game Developer, and coffee enthusiast! ☕
+
+Have a look around 💿
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
