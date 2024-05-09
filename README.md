@@ -7,7 +7,6 @@ Hello! Thanks for stopping by, I'm a computer science student at Tecnológico de
 Have a look around 💿
 
 
-[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isr-paredes)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
